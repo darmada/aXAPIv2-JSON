@@ -1,0 +1,7 @@
+{
+    "ssl_sid_persist_template_list": [
+        {
+            "name" : "Persist_SSLID"
+        }
+    ]
+}

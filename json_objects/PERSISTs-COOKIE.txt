@@ -1,0 +1,11 @@
+{
+    "cookie_persistence_template_list": [
+        {
+            "name": "Persist_Cookie"
+        },
+    	{
+            "name": "Persist_Cookie_JSESSIONID",
+            "cookie_name": "JSESSIONID"
+        }
+    ]
+}
